@@ -5,3 +5,5 @@
 3. Run the **"html_paser_struct_table_mdpi_wiley.py"** script to extract paragraph and table data from the downloaded HTML articles from Wiley and MDPI.
 
 4. For Springer, a special process is required: first, use **"html_download_table_springer.py"** to download tables from Springer articles; then, use **"html_parse_struct_table_springer.py"** to extract paragraph and table data from the downloaded Springer HTML articles.
+
+5. Run the **"elsevier_pdf_download.py"** script to download PDF-format articles from Elsevier, and run the **"pdf_download.py"** script to download PDF articles from other publishers.
