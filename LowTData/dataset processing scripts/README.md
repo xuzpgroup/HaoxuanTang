@@ -2,7 +2,7 @@
 
 ## Adding data entries
 
-New data entries can be added to the database by the `add_entry.py` script.
+New data entries can be added to the dataset by the `add_entry.py` script.
 
 ## Calculating rating score of datasets
 
