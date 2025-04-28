@@ -110,6 +110,7 @@ d=parser(path,file,publisher,doi)
 
 Please change '\$PATH' and '\$FILE' to your path and filename of the document. '\$PATH' should be ended with a '/'.
 
+# Workflow
 
 1. Run the `elsevier_xml_download.py` script to download XML-format articles from Elsevier. Run the `html_download.py` script to download HTML-format articles from Springer and MDPI. Run the `html_download_selenium.py` script to download HTML-format articles from Wiley (requires Google Chrome browser).
 
