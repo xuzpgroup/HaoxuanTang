@@ -17,7 +17,7 @@ This project is dedicated to building a dataset for the mechanical properties of
    - These are post-processing scripts for the dataset. They allow for accessing data, adding entries, importing standard formats, and evaluating data quality.
 
 5. **Data Visualization**
-   - This module provides code for visualizing the data, generating statistical plots and graphs.
+   - This module provides code for visualizing the data, generating statistical plots.
 
 ## Usage
 
