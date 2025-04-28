@@ -11,7 +11,7 @@ This project is dedicated to building a dataset for the mechanical properties of
    - This module processes the downloaded structured text using GPT and GLM to extract the required data from the literature.
 
 3. **Figure Processing**
-   - This module extracts images from the literature, segments composite images, and selects the necessary experimental data images. ImageEXtractor software is used to collect data points from the images.
+   - This module extracts images from the literature, segments composite images, and filter the required experimental images. ImageEXtractor software is used to collect data points from the images.
 
 4. **Dataset Processing Scripts**
    - These are post-processing scripts for the dataset. They allow for accessing data, adding entries, importing standard formats, and evaluating data quality.
