@@ -28,3 +28,7 @@ Fig. 1 The example result of figure segmentation. The red boxes contain the core
 # Figure classification
 
 Figure classification is conducted by `pred.py` with a ResNet50 model (`best.pth`). The input of the script is the path and names of figures, stored in the variable *figpath* and *figures*, respectively. The results are output to a JSON file, `pred.json`. The names of figures are stored in the file, with flags denoting whether figures are fatigue (1) or not (0). Example figures are in the `example` folder. It is noted that the figures used for classification are the core parts as defined above.
+
+# Workflow
+
+1. 
